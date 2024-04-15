@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+"It's not a bug, it's a feature" - Andrew Tanenbaum
+curently working on a game website which can be found at medr0k.github.io
 <!--
 **medr0k/medr0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
