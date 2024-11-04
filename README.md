@@ -1,8 +1,8 @@
-## ello 👋, I'm medr0k
+## ello 👋, I'm Medrok
 
 ### "It's not a bug, it's a feature" - Andrew Tanenbaum
 
-Welcome to my GitHub profile! i am curently working on a game website which can be found at medr0k.github.io
+Welcome to my GitHub profile! i am curently working on a game website which can be found at medrok9.github.io
 
 <!--
 **medr0k/medr0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
